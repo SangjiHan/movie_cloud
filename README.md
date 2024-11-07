@@ -2,7 +2,7 @@
 
 <div align = "center">
 
-<a href="https://[sangjihan.github.io/MovieCloud/](https://sangjihan.github.io/movie_cloud/)" target="_blank">
+<a href="https://sangjihan.github.io/movie_cloud/" target="_blank">
  <img src="https://img.shields.io/badge/SITE-778899?style=for-the-badge&color=000000">
 </a>
 </div>

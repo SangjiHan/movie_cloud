@@ -7,7 +7,7 @@
 </a>
 </div>
 
-<div align = "center"> ### src 폴더에 코드 상세 내역이 있습니다 </div>
+<div align = "center"> src 폴더에 코드 상세 내역이 있습니다 </div>
 
 <br>
 

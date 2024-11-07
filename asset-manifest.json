@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/movie_cloud/static/css/main.254b9d77.css",
+    "main.js": "/movie_cloud/static/js/main.deb9622a.js",
+    "static/js/453.6f2e229a.chunk.js": "/movie_cloud/static/js/453.6f2e229a.chunk.js",
+    "static/media/close.png": "/movie_cloud/static/media/close.582c2e7beec3e9f0bdb7.png",
+    "index.html": "/movie_cloud/index.html",
+    "main.254b9d77.css.map": "/movie_cloud/static/css/main.254b9d77.css.map",
+    "main.deb9622a.js.map": "/movie_cloud/static/js/main.deb9622a.js.map",
+    "453.6f2e229a.chunk.js.map": "/movie_cloud/static/js/453.6f2e229a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.254b9d77.css",
+    "static/js/main.deb9622a.js"
+  ]
+}
